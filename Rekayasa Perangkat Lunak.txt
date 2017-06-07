@@ -1,5 +1,7 @@
-					UJIAN AKHIR SEMESTER RPL
+		UJIAN AKHIR SEMESTER
 
-Nama : Erlan Darmawan
-NPM  : 1406044
-       Teknik Informatika C
+Nama 		: Erlan Darmawan
+NPM  		: 1406044
+Prodi		: Teknik Informatika C
+       		  SEKOLAH TINGGI TEKNOLOGI GARUT
+Mata Kuliah	: Rekayasa Perangkat Lunak
