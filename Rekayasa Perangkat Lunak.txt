@@ -3,3 +3,7 @@
 Nama 		: Erlan Darmawan
 NPM  		: 1406044
 Prodi		: Teknik Informatika C
+Mata Kuliah	: IF-27833/Rekayasa Perangkat Lunak
+Dosen		: Rickard Elsen, M.T.
+Materi		: Version Control System (VCS)
+Isi Materi	:
