@@ -7,3 +7,14 @@ Mata Kuliah	: IF-27833/Rekayasa Perangkat Lunak
 Dosen		: Rickard Elsen, M.T.
 Materi		: Version Control System (VCS)
 Isi Materi	:
+
+				Version Control System (VCS)
+	VCS adalah salah satu bagian dari Software Configuration Management (SCM). Fokus utama
+pada VCS adalah menelusuri perubahan yang terjadi ketika kode sumber diubah dari satu versi ke versi
+lainnya (Brown, 2002). VCS digunakan untuk pengembangan perangkat lunak secara kolaboratif
+(dikerjakan oleh beberapa orang dalam satu tim atau dikerjakan oleh beberapa tim) karena setiap kode
+sumber yang baru dan diubah akan terekam perubahannya sehingga orang lain dapat mempelajari kode
+sumber melalui rekaman perubahan tadi. VCS sangat penting karena digunakan pada semua fase dari
+perencanaan dan pembangunan perangkat lunak (Costa dan Murta, 2013). Kegunaan dari VCS adalah
+untuk dengan mudah membedakan perubahan versi, pengambilan dan penelusuran, dan untuk
+menunjukkan hubungan antara berbagai versi (Ren dkk, 2010).
